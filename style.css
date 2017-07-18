@@ -1,0 +1,36 @@
+*{margin:0px;}
+div
+{
+	display: flex;
+}
+#nav { background-color: #AAA; }
+.a0{ background-color: #888; }
+#nav a {padding:10px 15px 20px 15px; font-size:15pt; color:#222; text-decoration: none;}
+#nav a:hover {background-color: #888; color:white;}
+
+.div0 {height :52px; width: 75px; border:solid 1px black; padding:5px 2px 5px 5px; background-color: lightgray; font-size: 10pt;}
+.div1 {height :40px; width: 120px;border:solid 1px black; padding:5px 0px 5px 10px; }
+.div2 {height :40px; height :40px; width: 120px; border:solid 1px black;padding:5px 0px 5px 10px;}
+.div3 {height :40px; width: 150px; border:solid 1px black;padding:5px 0px 5px 10px;}
+.div4 {height :40px; width: 200px; border:solid 1px black;padding:5px 0px 5px 10px;}
+.div5 {height :40px; width: 200px; border:solid 1px black;padding:5px 0px 5px 10px;}
+.div6 {height :40px; width: 100px; text-align: center; border:solid 1px black;padding:5px 0px 5px 5px;}
+.div7 { height :40px;width: 120px; text-align: center; border:solid 1px black;padding:5px 0px 5px 5px;}
+.div8 {height :42px;width:175px;background-color: lightblue;padding:5px 0px 5px 5px;border:solid 1px black;}
+
+.div9 {width:175px;background-color: lightgreen;padding:5px 0px 5px 5px;border:solid 1px black;}
+
+button:hover , input:hover{ cursor: pointer; }
+
+.ajoutdiplome{ text-align: center; margin : 10px; font-family: verdana; font-size: 14pt; }
+.ajoutdiplome input {margin-left: 20px; height: 20px; border-radius: 10px; font-size: 14pt;}
+.ajoutdiplome button {margin-left: 20px; height: 30px; border-radius: 10px; font-size: 14pt; background-color: lightblue;}
+
+.divf { font-family: verdana; font-size:12pt; margin :10px 0px 0px 280px; padding:10px; }
+.divff { font-family: verdana; font-size:14pt;  padding:10px; border:solid 1px black; background-color: #999; }
+.divfiche { flex:25%; padding:5px; font-size:12pt; background-color: #CCC; border:1px solid black; }
+.divfich { flex:25%; padding:5px; font-size:12pt;  border:1px solid black; background-color: white;}
+
+
+.divS { height :40px; width: 150px; border:solid 1px black;padding:5px 0px 5px 10px;background-color: #AAA; }
+.divSS { height :40px; width: 143px; border:solid 1px black;padding:5px 0px 5px 10px; }
